@@ -316,3 +316,6 @@ if is_solo():
     ]
 
 INSTALLED_APPS = tuple(apps_list)
+
+
+#suraj 
