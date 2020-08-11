@@ -316,4 +316,10 @@ if is_solo():
     ]
 
 INSTALLED_APPS = tuple(apps_list)
+<<<<<<< HEAD
 #shivam gupta
+=======
+
+
+#suraj 
+>>>>>>> 4886b67544f310401f8a73ab3ad181522318e8d6
